@@ -1,0 +1,9 @@
+student_name,gender,part_time_job,extracurricular_activities,career_aspiration,absence_days,weekly_self_study_hours,math_score,history_score,physics_score,chemistry_score,biology_score,english_score,geography_score
+Alice,female,False,True,Software Engineer,3,10,78,65,72,70,80,69,74
+Bob,male,True,False,Teacher,20,2,35,40,33,38,45,39,30
+Charlie,male,False,True,Doctor,5,12,88,90,85,84,79,82,87
+Diana,female,False,False,Artist,12,4,55,49,61,57,60,52,48
+Ethan,male,True,True,Government Officer,25,1,32,30,28,35,40,33,29
+Fatima,female,False,True,Lawyer,2,15,92,89,95,91,87,90,93
+George,male,False,False,Unknown,18,5,45,42,50,47,52,48,46
+Hannah,female,True,True,Scientist,0,20,85,88,90,92,86,84,91
